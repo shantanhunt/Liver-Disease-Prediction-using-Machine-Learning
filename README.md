@@ -5,8 +5,8 @@ whether the patients had a liver disease or not. The data was also visualised by
 and the accuracy of the predictions was calculated.
 
 - Direct Bilirubin Vs Age Graph
-![](/images/Capture.jpg)
+![](/images/Capture.JPG)
 - GUI using Tkinter to Input Parameters for Prediction
-![](/images/Capture-2.jpg)
+![](/images/Capture-2.JPG)
 - 10-Dimensional Data Visualized in 2 dimension using TSNE Algorithm
-![](/images/Capture-3.jpg)
+![](/images/Capture-3.JPG)
