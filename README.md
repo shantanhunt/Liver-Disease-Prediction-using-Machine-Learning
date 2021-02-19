@@ -7,6 +7,7 @@ and the accuracy of the predictions was calculated.
 - Direct Bilirubin Vs Age Graph
 ![](/images/Capture.JPG)
 - GUI using Tkinter to Input Parameters for Prediction
+
 ![](/images/Capture-2.JPG)
 - 10-Dimensional Data Visualized in 2 dimension using TSNE Algorithm
 ![](/images/Capture-3.JPG)
